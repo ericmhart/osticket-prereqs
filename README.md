@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Jr is a buttface
+- Laptop or Desktop
 - Internet Connection
 - Microsoft Azure Subscription 
 - Created Virtual Machine(VM) in Azure Using Windows 10
