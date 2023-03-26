@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet Connection
 - Microsoft Azure Subscription 
 - Created Virtual Machine(VM) in Azure Using Windows 10
-- Remote Desktop Protocol(preinstalled on Windows / app available on MAC)
+- Remote Desktop Protocol(RDP) (preinstalled on Windows / app available on MAC)
 
 <h2>Installation Steps</h2>
 
