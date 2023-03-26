@@ -42,15 +42,15 @@ Copy the public IP Address from your virtual machine. RDP into VM from laptop. E
 <img src="https://i.imgur.com/HlcyADK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install and download PHP Manager for IIS and Rewrite Module. Create the directory C:\PHP. Download PHP and unzip the files into the newly created folder. Download and install VCredist 86 and Mysql5.5.62. 
+Install and download PHP Manager for IIS and Rewrite Module. Create the directory C:\PHP. Download PHP and unzip the files into the newly created folder. Download and install VCredist 86 and Mysql5.5.62. Create user and password for Mysql
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r3NgCm1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS as Administrator and register PHP.
 </p>
 <br />
 
