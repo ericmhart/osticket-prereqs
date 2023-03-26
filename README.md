@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/EspEfb5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Copy the public IP Address from your virtual machine. RDP into VM from laptop. Open Microsoft Edge
+Copy the public IP Address from your virtual machine. RDP into VM from laptop. Enable IIS from control panel(Programs>Turn Windows features on or off>Internet Information Services>World Wide Web>Application Developement Features>Check CGI)
 </p>
 <br />
 
