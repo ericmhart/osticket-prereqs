@@ -62,6 +62,6 @@ Download and install osTicket. Set the system settings and create admin user. Be
 <img src="https://i.imgur.com/ehbfU5R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Congratulations osTicket is fully installed.
+osTicket is fully installed.
 </p>
 <br />
